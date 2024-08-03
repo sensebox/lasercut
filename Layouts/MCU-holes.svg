@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210.00002mm"
+   height="296.99997mm"
+   viewBox="0 0 210.00002 296.99997"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   inkscape:export-filename="MCU-S2-holes.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" /><defs
+     id="defs1" /><g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"><g
+       id="g6"
+       transform="matrix(0.26458333,0,0,0.26458333,165.27567,-179.85313)"
+       inkscape:label="MCU"><g
+         inkscape:label="drills_NPTH"
+         id="g700"
+         transform="translate(-27.256262,21.061657)"><path
+           d="m 85.03937,1107.4016 a 5.6692915,5.6692915 0 0 0 -11.338583,0 5.6692915,5.6692915 0 0 0 11.338583,0 z"
+           style="fill:none;stroke:#000000"
+           id="path689" /><path
+           d="m 311.81102,1107.4016 a 5.6692915,5.6692915 0 0 0 -11.33858,0 5.6692915,5.6692915 0 0 0 11.33858,0 z"
+           style="fill:none;stroke:#000000"
+           id="path690" /><path
+           d="m 85.03937,888.18898 a 5.6692915,5.6692915 0 0 0 -11.338583,0 5.6692915,5.6692915 0 0 0 11.338583,0 z"
+           style="fill:none;stroke:#000000"
+           id="path691" /><path
+           d="m 311.81102,888.18898 a 5.6692915,5.6692915 0 0 0 -11.33858,0 5.6692915,5.6692915 0 0 0 11.33858,0 z"
+           style="fill:none;stroke:#000000"
+           id="path692" /></g></g></g></svg>

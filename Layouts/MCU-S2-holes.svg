@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210.00002mm"
+   height="296.99997mm"
+   viewBox="0 0 210.00002 296.99997"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" /><defs
+     id="defs1" /><g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"><g
+       id="g1"
+       transform="matrix(0.26458333,0,0,0.26458333,66.650193,-207.66413)"
+       inkscape:label="MCU-S2 holes"><g
+         inkscape:label="0"
+         id="g4" /><path
+         d="m 98.645672,1232.2024 c 0,3.3398 -2.707443,6.0472 -6.047244,6.0472 -3.339801,0 -6.047244,-2.7074 -6.047244,-6.0472 0,-3.3398 2.707443,-6.0472 6.047244,-6.0472 3.339801,0 6.047244,2.7074 6.047244,6.0472 z"
+         style="display:inline;fill:none;stroke:#000000"
+         id="path6"
+         sodipodi:nodetypes="sssss" /><path
+         d="m -86.263718,1232.1398 c 0,3.3398 -2.70745,6.0472 -6.04725,6.0472 -3.3398,0 -6.04724,-2.7074 -6.04724,-6.0472 0,-3.3398 2.70744,-6.0472 6.04724,-6.0472 3.3398,0 6.04725,2.7074 6.04725,6.0472 z"
+         style="display:inline;fill:none;stroke:#000000"
+         id="path6-5"
+         sodipodi:nodetypes="sssss" /><g
+         inkscape:label="drills_NPTH"
+         id="g424"
+         style="display:inline"><path
+           d="m -86.551181,1012.9134 a 6.047244,6.047244 0 0 0 -12.094488,0 6.047244,6.047244 0 0 0 12.094488,0 z"
+           style="fill:none;stroke:#000000"
+           id="path417" /><path
+           d="m 98.645669,1012.9134 c 0,3.3398 -2.707443,6.0472 -6.047244,6.0472 -3.339801,0 -6.047244,-2.7074 -6.047244,-6.0472 0,-3.3398 2.707443,-6.0472 6.047244,-6.0472 3.339801,0 6.047244,2.7074 6.047244,6.0472 z"
+           style="fill:none;stroke:#000000"
+           id="path418"
+           sodipodi:nodetypes="sssss" /></g></g></g></svg>
